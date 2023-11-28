@@ -3,6 +3,4 @@
 </div>
 <h1 align="center">I'm Ana Chávez🪐</h1>
 <h3 align="center">Programmer for FRC team 4010 and FTC team 21735</h3>
----
 
-### :woman_technologist: About Me :
