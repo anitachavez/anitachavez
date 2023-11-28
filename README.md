@@ -1,7 +1,6 @@
-<div style="position: relative;">
-  <img src="[URL_DEL_GIF](https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif)" style="position: absolute; z-index: -1; width: 100%;" alt="Background GIF">  
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif)" width="100"/>
 </div>
-
 
 
 <h1 align="center">I'm Ana Chávez🪐</h1>
