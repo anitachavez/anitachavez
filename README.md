@@ -7,11 +7,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anitachavez&label=Profile%20views&color=0e75b6&style=flat" alt="anitachavez" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anitachavez" alt="anitachavez" /></a> </p>
-
-- 🔭 I’m currently working on **Artificial Intelligence for Scouting**
+- 🔭 I’m currently working on a data base for developing an **Artificial Intelligence for FRC and FTC Scouting**
 
 - 🌱 I’m currently learning **Java for FRC**
 
@@ -19,5 +15,9 @@
 
 - 📫 How to reach me **ana.s.chavez1@gmail.com**
 
-- ⚡ Fun fact **FIRST Dean´s List Finalist**
+- ⚡ Fun fact I´m a **FIRST Dean´s List Finalist**
+
+---
+
+
 
