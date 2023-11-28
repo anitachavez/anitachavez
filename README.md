@@ -32,8 +32,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anitachavez&show_icons=true&locale=en" alt="anitachavez" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitachavez&" alt="anitachavez" /></p>
 ---
 
 
