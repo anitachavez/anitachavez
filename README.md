@@ -3,8 +3,7 @@
 <div style="position: relative;">
   <img src="[https://www.shutterstock.com/shutterstock/videos/23685691/thumb/1.jpg?ip=x480](https://i.imgur.com/aiKv1MR.jpeg)" style="position: absolute; z-index: -1; 
   width: 100%;" alt="Background Image">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
-  ![](link_al_gif.gif)
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"alt="GIF">
 </div>
 
 <h1 align="center">I'm Ana Chávez🪐</h1>
