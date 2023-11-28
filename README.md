@@ -1,8 +1,7 @@
 
 
 <div style="position: relative;">
-  <img src="[file:///C:/Users/chave/Downloads/binary-pink-color-abstract-box-pattern-dark-technology-background-free-video.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvideo%2F24135050-binary-pink-color-abstract-box-pattern-dark-technology-background&psig=AOvVaw1XQjbSx1ldlnzPFPGPRrQw&ust=1701235050646000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPivtsn45YIDFQAAAAAdAAAAABAh)" style="position: absolute; z-index: -1;   
-  width: 100%;" alt="Background Image">
+  <img src="https://www.shutterstock.com/shutterstock/videos/23685691/thumb/1.jpg?ip=x480" style="position: absolute; z-index: -1; width: 100%;" alt="Background Image">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
   ![](link_al_gif.gif)
 </div>
