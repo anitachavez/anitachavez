@@ -1,5 +1,3 @@
-
-
 <div style="position: relative;">
   <img src="[https://www.shutterstock.com/shutterstock/videos/23685691/thumb/1.jpg?ip=x480](https://i.imgur.com/aiKv1MR.jpeg)" style="position: absolute; z-index: -1; 
   width: 100%;" alt="Background Image">
