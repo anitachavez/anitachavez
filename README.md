@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="left">About Me 🚀 </h1>
+<h2 align="left">About Me 🛸: </h1>
 
 - 👩‍💻 I’m currently working on a data base for developing an **Scouting Artificial Intelligence**
 
