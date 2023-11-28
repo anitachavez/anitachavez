@@ -52,6 +52,7 @@
 ----
 
 <h2 align="left">GitHub Trophies 🏆: </h1>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anitachavez&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 </p>
@@ -59,6 +60,7 @@
 ---
 
 <h2 align="left">Top Contributed Repo 🔝: </h1>
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anitachavez&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </p>
