@@ -7,7 +7,7 @@
 ---
 
 
-<h4 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</h3>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
