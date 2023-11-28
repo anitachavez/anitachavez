@@ -1,7 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500" alt="GIF más grande">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400" alt="GIF más grande">
 </div>
+
 
 
 <h1 align="center">I'm Ana Chávez🪐</h1>
