@@ -7,16 +7,15 @@
 
 ---
 
-- 🔭 I’m currently working on a data base for developing an **Artificial Intelligence for FRC and FTC Scouting**
+- 👩‍💻 I’m currently working on a data base for developing an **Scouting Artificial Intelligence**
 
-- 🌱 I’m currently learning **Java for FRC**
+- 🦾 Learning **Java for FRC**
 
 - 📝 I regularly write articles on [https://medium.com/@fenixdiario23](https://medium.com/@fenixdiario23)
 
-- 📫 How to reach me **ana.s.chavez1@gmail.com**
+- 🧱 How to reach me **ana.s.chavez1@gmail.com**
 
 - ⚡ Fun fact I´m a **FIRST Dean´s List Finalist**
-
 
 ---
 
