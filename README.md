@@ -16,11 +16,9 @@
 ---
 
 <h2 align="left">About Me 🚀: </h1>
-- 👩‍💻 I’m currently working on a data base for developing an **Scouting Artificial Intelligence**
+- 👩‍💻 I’m currently working on a data base for developing a **Scouting Artificial Intelligence**
 
-- 🦾 Learning **Java for FRC**
-
-- 📝 I regularly write articles on [https://medium.com/@fenixdiario23](https://medium.com/@fenixdiario23)
+- 🦾 Love to work on **Arduino projects**
 
 - 🧱 How to reach me **ana.s.chavez1@gmail.com**
 
