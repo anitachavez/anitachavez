@@ -16,7 +16,7 @@
 ---
 
 <h2 align="left">About Me 🚀: </h1>
-- 👩‍💻 I’m currently working on a data base for developing a **Scouting** **Artificial** **Intelligence**
+- 👩‍💻 I’m currently working on a data base for developing a **Scouting artificial intelligence**
 
 - 🦾 Love to work on **Arduino projects**
 
