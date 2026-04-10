@@ -20,13 +20,10 @@ With a background in robotics and programming through FIRST Robotics, I have dev
 ---
 
 <h2 align="left">About Me 🚀: </h1>
-- 👩‍💻 Currently a Research and Development Nuclear Robotics Engineer at the **Idaho National Laboratory**
-
-- 🦾 Love to work on **Self-Guided Research Projects**
-
-- 🧱 How to reach me **ana.s.chavez1@gmail.com**
-
-- 🎖️ Fun fact **I´m a FIRST Dean´s List Finalist**
+- 👩‍💻 Research & Development Nuclear Robotics Engineer at Idaho National Laboratory  
+- 🦾 Interested in self-directed research and advanced engineering challenges  
+- 🧱 Contact: ana.s.chavez1@gmail.com  
+- 🎖️ FIRST Dean’s List Finalist  
 
 ---
 
