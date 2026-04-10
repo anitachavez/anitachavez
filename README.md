@@ -1,76 +1,111 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400" alt="GIF más grande">
-</div>
-
-
-
-<h1 align="center">I'm Ana Chávez🪐</h1>
-<h4 align="left">
-I am an Aerospace and Materials engineering student with a strong interest in research at the intersection of nuclear energy and materials science for aerospace applications. My work focuses on understanding and developing advanced materials capable of withstanding extreme environments, including radiation exposure and high thermal stresses. 
-
-With a background in robotics and programming through FIRST Robotics, I have developed a solid foundation in problem-solving, systems thinking, and technical implementation. I am particularly interested in contributing to the development of next-generation aerospace systems, where nuclear technologies can play a critical role in propulsion, power generation, and deep-space exploration.
-</h4>
-
- 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" >
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400"/>
 </div>
+
+<h1 align="center">Ana Chávez 🪐</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aerospace+Engineering+Student;Nuclear+Energy+Research;Materials+Science;Deep+Space+Systems&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <i>"Engineering the materials that will survive where humans cannot — yet."</i>
+</p>
 
 ---
 
-<h2 align="left">About Me 🚀: </h1>
-- 👩‍💻 Research & Development Nuclear Robotics Engineer at Idaho National Laboratory  
+<h2 align="left">About Me 🚀</h2>
 
-- 🦾 Interested in self-directed research and advanced engineering challenges
-  
-- 🧱 Contact: ana.s.chavez1@gmail.com
-  
+<h4 align="left">
+I am an Aerospace and Materials Engineering student with a strong focus on research at the intersection of nuclear energy and materials science for aerospace applications. My work centers on the development and analysis of advanced materials capable of withstanding extreme environments, including high radiation exposure and thermal stress.
+
+With a background in robotics and programming through FIRST Robotics (FRC 4010, FTC 21735), I have built a solid foundation in systems engineering, problem-solving, and technical design. I am particularly interested in contributing to next-generation aerospace systems, where nuclear technologies play a key role in propulsion, energy, and deep-space exploration.
+</h4>
+
+---
+
+<h2 align="left">Research Interests 🔬</h2>
+
+- Nuclear energy systems for aerospace applications  
+- Radiation-resistant materials and extreme environment engineering  
+- Advanced materials for propulsion and deep-space missions  
+- Thermal and structural analysis under high-stress conditions  
+
+---
+
+<h2 align="left">Current Projects 🧪</h2>
+
+- Developing concepts for radiation shielding using advanced materials  
+- Studying material behavior under simulated extreme environments  
+- Exploring nuclear-powered propulsion systems for deep-space missions  
+
+---
+
+<h2 align="left">Experience 🏢</h2>
+
+- 👩‍💻 Research & Development Nuclear Robotics Engineer  
+  <br/>Idaho National Laboratory  
+
+- 🤖 FIRST Robotics Competition (FRC 4010)  
+  <br/>Captain, Programmer, Electrical  
+
+- ⚙️ FIRST Tech Challenge (FTC 21735)  
+  <br/>Programmer & Mechanical Design  
+
+---
+
+<h2 align="left">About Me 📌</h2>
+
+- 🦾 Strong interest in self-directed research and advanced engineering challenges  
+- 🧱 Contact: **ana.s.chavez1@gmail.com**  
 - 🎖️ FIRST Dean’s List Finalist  
 
 ---
 
-<h2 align="left">Connect with me 📱:</h1>
+<h2 align="left">Connect with Me 📱</h2>
+
 <p align="left">
-<a href="https://instagram.com/ana.s.chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ana.s.chavez" height="30" width="40" /></a>
+<a href="https://instagram.com/ana.s.chavez" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 </p>
 
-
 ---
 
-<h2 align="left">Languages and Tools 🛠️: </h1>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
----
-
-<h2 align="left">GitHub Stats 📊: </h1>
+<h2 align="left">Languages & Tools 🛠️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitachavez&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,java,js,linux,git,tensorflow,arduino" />
+</p>
+
+---
+
+<h2 align="left">GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anitachavez&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitachavez&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitachavez&theme=radical&hide_border=false"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitachavez&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
-
-----
-
-<h2 align="left">GitHub Trophies 🏆: </h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anitachavez&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitachavez&theme=radical&hide_border=false&layout=compact"/>
 </p>
 
 ---
 
-<h2 align="left">Top Contributed Repo 🔝: </h1>
+<h2 align="left">GitHub Trophies 🏆</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anitachavez&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=anitachavez&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
+---
 
+<h2 align="left">Top Contributions 🔝</h2>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anitachavez&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 
+---
+
+<h2 align="center">🚀 Building the future of aerospace through nuclear energy & materials science</h2>
