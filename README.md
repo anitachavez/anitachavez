@@ -21,8 +21,11 @@ With a background in robotics and programming through FIRST Robotics, I have dev
 
 <h2 align="left">About Me 🚀: </h1>
 - 👩‍💻 Research & Development Nuclear Robotics Engineer at Idaho National Laboratory  
-- 🦾 Interested in self-directed research and advanced engineering challenges  
-- 🧱 Contact: ana.s.chavez1@gmail.com  
+
+- 🦾 Interested in self-directed research and advanced engineering challenges
+  
+- 🧱 Contact: ana.s.chavez1@gmail.com
+  
 - 🎖️ FIRST Dean’s List Finalist  
 
 ---
