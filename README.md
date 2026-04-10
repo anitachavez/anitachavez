@@ -20,9 +20,9 @@ With a background in robotics and programming through FIRST Robotics, I have dev
 ---
 
 <h2 align="left">About Me 🚀: </h1>
-- 👩‍💻 I’m currently working on a data base for developing a **Scouting artificial intelligence**
+- 👩‍💻 Currently a Research and Development Nuclear Robotics Engineer at the **Idaho National Laboratory**
 
-- 🦾 Love to work on **Arduino projects**
+- 🦾 Love to work on **Self-Guided Research Projects**
 
 - 🧱 How to reach me **ana.s.chavez1@gmail.com**
 
