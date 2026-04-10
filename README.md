@@ -6,7 +6,11 @@
 
 
 <h1 align="center">I'm Ana Chávez🪐</h1>
-<h4 align="left">I am an enthusiastic woman dedicated to expanding my knowledge in STEAM fields. As a programmer for both the FRC team Nautilus 4010 and FTC team 21735, I thrive on coding and creating software that positively impacts people's lives. I am actively training myself to become an astronaut, aspiring to be among the first individuals to set foot on Mars.</h3>
+<h4 align="left">
+I am an Aerospace and Materials engineering student with a strong interest in research at the intersection of nuclear energy and materials science for aerospace applications. My work focuses on understanding and developing advanced materials capable of withstanding extreme environments, including radiation exposure and high thermal stresses. 
+
+With a background in robotics and programming through FIRST Robotics, I have developed a solid foundation in problem-solving, systems thinking, and technical implementation. I am particularly interested in contributing to the development of next-generation aerospace systems, where nuclear technologies can play a critical role in propulsion, power generation, and deep-space exploration.
+</h4>
 
  
 <div align="center">
