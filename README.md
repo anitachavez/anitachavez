@@ -80,5 +80,10 @@ With a background in robotics and programming through FIRST Robotics (FRC 4010, 
 
 ---
 
+<h2 align="left">GitHub Stats 📊: </h1> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anitachavez&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitachavez&theme=radical&hide_border=false" alt="GitHub Streak Stats"> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitachavez&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"> </p> 
+----
+
+<h2 align="left">GitHub Trophies 🏆: </h1> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=anitachavez&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy"> </p> --- <h2 align="left">Top Contributed Repo 🔝: </h1> <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=anitachavez&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"> </p>
+
 <h2 align="center">🚀 Building the future of aerospace through nuclear energy & materials science</h2>
-este es mi readme pero quiero que mi nombre sea ana sofia chavez salas y que aparezca algo mas padre que el sticker de hello world hasta arriba, algo que se vea pro y dinamico y que mi nombre se vea mas pro tambien
+
